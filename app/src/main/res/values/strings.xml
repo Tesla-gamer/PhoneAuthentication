@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dummy2</string>
+    <string name="otp"><![CDATA[<font color="#a3a3a3">We will send you an</font> <font color="#000000">One Time Password</font> <font color="#a3a3a3">on this mobile number</font>]]></string>
+    <string name="otp1"><![CDATA[<font color="#a3a3a3">Enter OTP send to </font> <font color="#000000">+91–9876-564-656</font>]]></string>
+
+</resources>
