@@ -9,6 +9,7 @@ This is a simple phone authentication in android studio.
 Project video link  https://www.youtube.com/shorts/o-GrrmOCyf4
 
 
+
 ## Features
 
 - Login page .
@@ -19,7 +20,9 @@ Project video link  https://www.youtube.com/shorts/o-GrrmOCyf4
 
 ## Screenshots
 
+![photo_2022-03-04_14-19-08](https://user-images.githubusercontent.com/70539485/156730524-36679d20-33a4-425f-a3f1-444ca8e84474.jpg)
 
+![photo_2022-03-04_14-19-05](https://user-images.githubusercontent.com/70539485/156730867-fefa3e40-4e01-40b6-a418-79e7ef133ce1.jpg)
 
 ## Dependency 
 
